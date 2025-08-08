@@ -23,7 +23,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/Vibtree/mageutil"
+	"github.com/vibtreeofficial/mageutil"
 )
 
 var Default = Test

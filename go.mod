@@ -8,13 +8,13 @@ require (
 	github.com/frostbyte73/core v0.0.10
 	github.com/gammazero/deque v0.2.1
 	github.com/go-logr/logr v1.4.3
-	github.com/vibtreeofficial/mageutil v0.0.0-20250511045019-0f1ff63f7731
 	github.com/nats-io/nats.go v1.31.0
 	github.com/ory/dockertest/v3 v3.11.0
 	github.com/pkg/errors v0.9.1
 	github.com/redis/go-redis/v9 v9.3.0
 	github.com/stretchr/testify v1.10.0
 	github.com/twitchtv/twirp v8.1.3+incompatible
+	github.com/vibtreeofficial/mageutil v0.1.0
 	go.opentelemetry.io/otel v1.37.0
 	go.opentelemetry.io/otel/trace v1.37.0
 	go.uber.org/atomic v1.11.0
